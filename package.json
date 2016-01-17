@@ -1,0 +1,29 @@
+{
+  "name": "hind",
+  "version": "0.0.1",
+  "description": "Hind is a simple post function hook written in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/active9/hind"
+  },
+  "keywords": [
+    "hind",
+    "hook",
+    "post",
+    "after",
+    "function"
+  ],
+  "dependencies": {
+    "underscore": "*"
+  },
+  "author": "Active 9 LLC.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/active9/hind/issues"
+  },
+  "homepage": "https://github.com/active9/hind"
+}
